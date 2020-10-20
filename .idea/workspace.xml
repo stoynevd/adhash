@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c3c6fd2-c5b3-489d-a943-84da615ab79e" name="Default Changelist" comment="" />
+    <list default="true" id="0c3c6fd2-c5b3-489d-a943-84da615ab79e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2 - OOP/CalculationFunction.php" beforeDir="false" afterPath="$PROJECT_DIR$/Task2 - OOP/CalculationFunction.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +13,16 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1j5HjAuKiJek5dkT7nTH7o78v0p" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Task2 - OOP" />
@@ -59,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603087164386</updated>
-      <workItem from="1603087165459" duration="2861000" />
+      <workItem from="1603087165459" duration="3036000" />
+      <workItem from="1603189619737" duration="131000" />
     </task>
     <servers />
   </component>
@@ -71,22 +79,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="505" y="77" width="412" height="638" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1603088804593" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1603090016482">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1603189747014">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1603090016482" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1603090016479">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1603189747014" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1603189747012">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1603090016479" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1603090016478">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1603189747012" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1603189747010">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1603090016478" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1603090016480">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1603189747010" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1603189747013">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1603090016480" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1603189747013" />
     <state x="435" y="116" width="553" height="561" key="NewPhpClassDialog" timestamp="1603088777732">
       <screen x="67" y="27" width="1299" height="741" />
     </state>

@@ -8,7 +8,6 @@ require 'Triangle.php';
 $data = [
     ['Square', 5],
     ['Circle', 10],
-    ['Triangle', 15]
 ];
 
 function calculateMultipleShapes($shapes) {
@@ -24,7 +23,7 @@ function calculateMultipleShapes($shapes) {
         $result += $newShape->calculateArea();
     }
 
-    return $result;
+    return number_format((float)$result, 2, '.', '');
 }
 
 function checkShape($shape) {
